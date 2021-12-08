@@ -1,4 +1,4 @@
-const APITest = "http:/backend.test.usenobi.com:8000/"
+const APITest = "http://backend.test.usenobi.com:8000/"
 
 const BASE_URL = APITest
 

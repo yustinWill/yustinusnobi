@@ -1,6 +1,7 @@
 # Nobi Android Test
 
-An Android mobile application built using React Native for Nobi Mobile Developer Test
+An Android mobile application built using React Native for Nobi Mobile Developer Test.
+You can check the APK sample and the Test Requirements on the APKtest folder.
 
 ## Features
 
